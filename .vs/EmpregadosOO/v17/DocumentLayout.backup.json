@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projetos\\EmpregadosOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE32BBC6-C235-43E4-AB28-833B273521F2}|EmpregadosOO\\EmpregadosOO.csproj|c:\\projetos\\empregadosoo\\empregadosoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE32BBC6-C235-43E4-AB28-833B273521F2}|EmpregadosOO\\EmpregadosOO.csproj|solutionrelative:empregadosoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE32BBC6-C235-43E4-AB28-833B273521F2}|EmpregadosOO\\EmpregadosOO.csproj|c:\\projetos\\empregadosoo\\empregadosoo\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE32BBC6-C235-43E4-AB28-833B273521F2}|EmpregadosOO\\EmpregadosOO.csproj|solutionrelative:empregadosoo\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE32BBC6-C235-43E4-AB28-833B273521F2}|EmpregadosOO\\EmpregadosOO.csproj|c:\\projetos\\empregadosoo\\empregadosoo\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE32BBC6-C235-43E4-AB28-833B273521F2}|EmpregadosOO\\EmpregadosOO.csproj|solutionrelative:empregadosoo\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\projetos\\EmpregadosOO\\EmpregadosOO\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "EmpregadosOO\\Entities\\Address.cs",
+              "ToolTip": "C:\\projetos\\EmpregadosOO\\EmpregadosOO\\Entities\\Address.cs",
+              "RelativeToolTip": "EmpregadosOO\\Entities\\Address.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T23:13:29.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\projetos\\EmpregadosOO\\EmpregadosOO\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "EmpregadosOO\\Entities\\Department.cs",
+              "ToolTip": "C:\\projetos\\EmpregadosOO\\EmpregadosOO\\Entities\\Department.cs",
+              "RelativeToolTip": "EmpregadosOO\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T22:57:10.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projetos\\EmpregadosOO\\EmpregadosOO\\Program.cs",
+              "RelativeDocumentMoniker": "EmpregadosOO\\Program.cs",
+              "ToolTip": "C:\\projetos\\EmpregadosOO\\EmpregadosOO\\Program.cs",
+              "RelativeToolTip": "EmpregadosOO\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:52:40.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

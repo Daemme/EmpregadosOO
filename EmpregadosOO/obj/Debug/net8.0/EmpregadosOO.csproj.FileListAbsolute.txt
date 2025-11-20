@@ -1,0 +1,14 @@
+C:\projetos\EmpregadosOO\EmpregadosOO\bin\Debug\net8.0\EmpregadosOO.exe
+C:\projetos\EmpregadosOO\EmpregadosOO\bin\Debug\net8.0\EmpregadosOO.deps.json
+C:\projetos\EmpregadosOO\EmpregadosOO\bin\Debug\net8.0\EmpregadosOO.runtimeconfig.json
+C:\projetos\EmpregadosOO\EmpregadosOO\bin\Debug\net8.0\EmpregadosOO.dll
+C:\projetos\EmpregadosOO\EmpregadosOO\bin\Debug\net8.0\EmpregadosOO.pdb
+C:\projetos\EmpregadosOO\EmpregadosOO\obj\Debug\net8.0\EmpregadosOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\EmpregadosOO\EmpregadosOO\obj\Debug\net8.0\EmpregadosOO.AssemblyInfoInputs.cache
+C:\projetos\EmpregadosOO\EmpregadosOO\obj\Debug\net8.0\EmpregadosOO.AssemblyInfo.cs
+C:\projetos\EmpregadosOO\EmpregadosOO\obj\Debug\net8.0\EmpregadosOO.csproj.CoreCompileInputs.cache
+C:\projetos\EmpregadosOO\EmpregadosOO\obj\Debug\net8.0\EmpregadosOO.dll
+C:\projetos\EmpregadosOO\EmpregadosOO\obj\Debug\net8.0\refint\EmpregadosOO.dll
+C:\projetos\EmpregadosOO\EmpregadosOO\obj\Debug\net8.0\EmpregadosOO.pdb
+C:\projetos\EmpregadosOO\EmpregadosOO\obj\Debug\net8.0\EmpregadosOO.genruntimeconfig.cache
+C:\projetos\EmpregadosOO\EmpregadosOO\obj\Debug\net8.0\ref\EmpregadosOO.dll
